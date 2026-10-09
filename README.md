@@ -15,7 +15,6 @@ getting students onto research teams.
 | **[Digital Wind Tunnel](https://github.com/0rb1/wind-tunnel)** | Live lattice-Boltzmann fluid simulation in the browser for learning aerodynamics | |
 | **[Dynamics Desk](https://github.com/0rb1/dynamics-desk)** | Study app for engineering Dynamics: lessons, worked solutions, calculation labs | |
 | **[Market Scout](https://github.com/0rb1/market-scout)** | Evidence-first investment research dashboard with cited bull and bear cases | |
-| **[free-delegate](https://github.com/0rb1/orialgave-free-delegate)** | Lets Claude Code hand bulk work to free AI models | |
 
 ## Sites by Ori
 
