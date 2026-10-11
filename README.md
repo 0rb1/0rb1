@@ -9,9 +9,11 @@ rockets and airframes, and I build web tools for problems I actually have.
 
 ## Engineering
 
-| [![Swamp Launch IREC competition rocket, rotating](cad/rocket.gif)](https://github.com/0rb1/engineering-cad#swamp-launch-rocket-design-and-cfd) | [![Design/Build/Fly eVTOL aircraft, rotating](cad/evtol.gif)](https://github.com/0rb1/engineering-cad#designbuildfly-evtol-aircraft) | [![Air-engine mixer assembly, rotating](cad/mixer.gif)](https://github.com/0rb1/engineering-cad#air-engine-mixer) |
-|:-:|:-:|:-:|
-| **IREC competition rocket**<br><sub>Swamp Launch · SolidWorks, ANSYS Fluent</sub> | **eVTOL airframe**<br><sub>Gator Design/Build/Fly · carbon fiber</sub> | **Air-engine mixer**<br><sub>Machined and designed for DFM</sub> |
+| [![Swamp Launch IREC competition rocket, rotating](cad/rocket.gif)](https://github.com/0rb1/engineering-cad#swamp-launch-rocket-design-and-cfd) | [![Modular desktop wind tunnel, rotating](cad/tunnel.gif)](https://github.com/0rb1/engineering-cad#modular-desktop-wind-tunnel) |
+|:-:|:-:|
+| **IREC competition rocket**<br><sub>Swamp Launch · SolidWorks, ANSYS Fluent</sub> | **Modular desktop wind tunnel**<br><sub>Personal project · 80+ hours of CAD, built from scratch</sub> |
+| [![Design/Build/Fly eVTOL aircraft, rotating](cad/evtol.gif)](https://github.com/0rb1/engineering-cad#designbuildfly-evtol-aircraft) | [![Air-engine mixer assembly, rotating](cad/mixer.gif)](https://github.com/0rb1/engineering-cad#air-engine-mixer) |
+| **eVTOL airframe**<br><sub>Gator Design/Build/Fly · carbon fiber</sub> | **Air-engine mixer**<br><sub>Machined and designed for DFM</sub> |
 
 <sub>Click a model to open it in 3D.</sub>
 
