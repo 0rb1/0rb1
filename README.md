@@ -12,12 +12,12 @@ getting students onto research teams.
 
 | Project | What it does | |
 |---|---|---|
-| **[Engineering CAD](https://github.com/0rb1/engineering-cad)** | Interactive 3D models: IREC rocket, wind-tunnel rig, eVTOL airframe, air-engine mixer | |
-| **[Lattice](https://github.com/0rb1/Lattice)** | Campus research and teams marketplace for UF students and professors | [joinlattice.app](https://joinlattice.app) |
-| **[Internship Scout](https://github.com/0rb1/internship-scout)** | Finds mechanical/aerospace internships every day, scores them, and tailors a resume to each | |
-| **[Digital Wind Tunnel](https://github.com/0rb1/wind-tunnel)** | Live lattice-Boltzmann fluid simulation in the browser for learning aerodynamics | |
-| **[Dynamics Desk](https://github.com/0rb1/dynamics-desk)** | Study app for engineering Dynamics: lessons, worked solutions, calculation labs | |
-| **[Market Scout](https://github.com/0rb1/market-scout)** | Evidence-first investment research dashboard with cited bull and bear cases | |
+| **[Engineering CAD](https://github.com/0rb1/engineering-cad)** | Interactive 3D models: IREC rocket, wind-tunnel rig, eVTOL airframe, air-engine mixer | [view in 3D](https://github.com/0rb1/engineering-cad#swamp-launch-rocket-design-and-cfd) |
+| **Lattice** | Campus research and teams marketplace for UF students and professors | [joinlattice.app](https://joinlattice.app) |
+| **Internship Scout** | Finds mechanical/aerospace internships every day, scores them, and tailors a resume to each | private |
+| **[Digital Wind Tunnel](https://github.com/0rb1/wind-tunnel)** | Live lattice-Boltzmann fluid simulation in the browser for learning aerodynamics | [run it](https://0rb1.github.io/wind-tunnel/) |
+| **Dynamics Desk** | Study app for engineering Dynamics: lessons, worked solutions, calculation labs | private |
+| **Market Scout** | Evidence-first investment research dashboard with cited bull and bear cases | private |
 
 ## Sites by Ori
 
