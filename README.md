@@ -13,7 +13,7 @@ getting students onto research teams.
 | Project | What it does | |
 |---|---|---|
 | **[Engineering CAD](https://github.com/0rb1/engineering-cad)** | Interactive 3D models: IREC rocket, wind-tunnel rig, eVTOL airframe, air-engine mixer | [view in 3D](https://github.com/0rb1/engineering-cad#swamp-launch-rocket-design-and-cfd) |
-| **Lattice** | Campus research and teams marketplace for UF students and professors | [joinlattice.app](https://joinlattice.app) |
+| **[Lattice](https://github.com/0rb1/lattice-public)** | Campus research and teams marketplace for UF students and professors | [joinlattice.app](https://joinlattice.app) |
 | **Internship Scout** | Finds mechanical/aerospace internships every day, scores them, and tailors a resume to each | private |
 | **[Digital Wind Tunnel](https://github.com/0rb1/wind-tunnel)** | Live lattice-Boltzmann fluid simulation in the browser for learning aerodynamics | [run it](https://0rb1.github.io/wind-tunnel/) |
 | **Dynamics Desk** | Study app for engineering Dynamics: lessons, worked solutions, calculation labs | private |
@@ -21,8 +21,7 @@ getting students onto research teams.
 
 ## Sites by Ori
 
-A student-run web design studio. Client work includes
-[Waffles & Boba](https://waffles-and-boba.vercel.app) and Evren Technologies.
+[A student-run web design studio](https://github.com/0rb1/sites-by-ori-public): custom websites for students and small businesses. [sitesbyori.com](https://sitesbyori.com)
 
 ## Activity
 
