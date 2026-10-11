@@ -36,6 +36,8 @@ A student-run web design studio. Client work includes
   <img alt="3D contribution calendar with language breakdown" src="profile-3d-contrib/profile-green-animate.svg">
 </picture>
 
+<img alt="GitHub stats and most-used languages" src="metrics.svg">
+
 ## Tools
 
 TypeScript · Next.js · React · PostgreSQL · Prisma · Supabase · Python · SolidWorks
