@@ -31,7 +31,10 @@ A student-run web design studio. Client work includes
   <img alt="Contribution graph eaten by a snake" src="dist/snake.svg">
 </picture>
 
-<img alt="Languages and contribution calendar" src="metrics.svg">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-green.svg">
+  <img alt="3D contribution calendar with language breakdown" src="profile-3d-contrib/profile-green-animate.svg">
+</picture>
 
 ## Tools
 
