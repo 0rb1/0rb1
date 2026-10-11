@@ -6,10 +6,13 @@ getting students onto research teams.
 
 **[orialgave.com](https://orialgave.com)** · engineering projects, research, astrophotography
 
+**Currently building:** [Lattice](https://joinlattice.app), getting UF students onto research teams. **On the engineering side:** CFD and flight-data analysis for the Swamp Launch rocket team, and carbon-fiber airframes for Gator Design/Build/Fly.
+
 ## Projects
 
 | Project | What it does | |
 |---|---|---|
+| **[Engineering CAD](https://github.com/0rb1/engineering-cad)** | Interactive 3D models: IREC rocket, wind-tunnel rig, eVTOL airframe, air-engine mixer | |
 | **[Lattice](https://github.com/0rb1/Lattice)** | Campus research and teams marketplace for UF students and professors | [joinlattice.app](https://joinlattice.app) |
 | **[Internship Scout](https://github.com/0rb1/internship-scout)** | Finds mechanical/aerospace internships every day, scores them, and tailors a resume to each | |
 | **[Digital Wind Tunnel](https://github.com/0rb1/wind-tunnel)** | Live lattice-Boltzmann fluid simulation in the browser for learning aerodynamics | |
@@ -20,6 +23,15 @@ getting students onto research teams.
 
 A student-run web design studio. Client work includes
 [Waffles & Boba](https://waffles-and-boba.vercel.app) and Evren Technologies.
+
+## Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dist/snake-dark.svg">
+  <img alt="Contribution graph eaten by a snake" src="dist/snake.svg">
+</picture>
+
+<img alt="Languages and contribution calendar" src="metrics.svg">
 
 ## Tools
 
